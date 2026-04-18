@@ -19,7 +19,7 @@
 7. Comando para ver um commit especifico: 
     - ` git show [id do commit] ` 
 
-
+8. Comando para
 
 
 
