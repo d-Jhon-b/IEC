@@ -13,6 +13,11 @@
     -   ` git branch -r`
     -   ` git branch `
 
+6. Comando para vizualizar todos os commits feitos: 
+    - ` git log `
+
+7. Comando para ver um commit especifico: 
+    - ` git show [id do commit] ` 
 
 
 
