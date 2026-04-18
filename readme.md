@@ -3,7 +3,7 @@
 
 
 
-1. Comando para clone> ` git clone [link do git hub das pessoas]`
+1. Comando para clone: ` git clone [link do git hub das pessoas]`
 2. Comandos para criar branch: ` git checkout -b [nome da sua nova branch] `
 3. Comando para dar postar uma atualização na sua branch:
     -   ` git add . `
