@@ -1,8 +1,5 @@
 #Exemplo de aplicação de IEC
 
-
-
-
 1. Comando para clone: ` git clone [link do git hub das pessoas]`
 2. Comandos para criar branch: ` git checkout -b [nome da sua nova branch] `
 3. Comando para dar postar uma atualização na sua branch:
@@ -15,3 +12,23 @@
 5. Comando para listar branchs remotas, locais e gerais:
     -   ` git branch -r`
     -   ` git branch `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ` Quie se comio el queso apestoso? Perry hdp' `
